@@ -25,21 +25,105 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
+    gap: 10px;
+    align-items:start;
+    margin-left: 10px;
+    overflow: scroll;
+   
+    
 
 }
 
 .bild7{
     width: 50px;
+    margin-top: 30px;
+    
+    
+    
+    
 }
+
+.davinciresolve7{
+    width: 50px;
+    
+}
+
+.photoshop7{
+    width: 30px;
+    margin-top: 20px;
+    margin-left: 10px;
+    
+    
+}
+
+.helium107{
+
+    margin-top: 20px;
+    object-fit: cover;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+   object-position: left;
+   margin-left: 10px;
+   
+
+}
+
+.sap7{
+    margin-top: 16px;
+}
+
+.chatgpt{
+
+    width: 33px;
+    margin-top: 15px;
+    margin-left: 10px;
+    
+    
+}
+
+.javascript77{
+
+    margin-top: 20px;
+
+}
+
+.react77{
+    width: 40px;
+    margin-top: 15px;
+}
+
+
+
+
 
 .textdiv7{
 
+width: 580px;
+height: 200px;
+
+
+
+
+
 }
+
+
 
 .text7{
     color: #17260c;
     font-family: roboto;
 }
 
+.bilddiv7{
+    width: 50px;
+}
+
+
+.linie7{
+    border-bottom-style: solid;
+    border-bottom-color:#3d1673;
+    border-bottom-width: 1px ;
+}
 
 
