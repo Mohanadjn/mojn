@@ -1,0 +1,70 @@
+.shopsysteme{
+    background-color: white;
+    height: 200px;
+  
+
+}
+
+.h1shopsysteme{
+    text-align: center;
+    font-family: roboto;
+    letter-spacing: 0.5px;
+    padding-top: 10px;
+    
+    
+}
+
+.hauptflex5{
+
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-top: 40px;
+ 
+   
+}
+
+.sekflex{
+    display: flex;
+    flex-direction: row;
+align-items: center;
+margin-right: 30px;
+
+}
+
+.shopwarediv{
+    width: 70px;
+    margin-left: 30px;
+    position: relative;
+}
+
+.schriftsysteme{
+    font-family: roboto;
+    color:#17260c ;
+    font-weight: 400;
+
+}
+
+
+.shopnamenhover{
+    position: absolute;
+    top: 45px;
+}
+
+
+.schrifthover{
+    font-family: roboto;
+    font-size: 8px;
+    background-color: rgba(119, 136, 153, 0.558);
+    color: white;
+    padding: 4px 7px;
+    opacity: 0;
+}
+
+.schrifthover:hover{
+    opacity: 1;
+}
+
+
+
+

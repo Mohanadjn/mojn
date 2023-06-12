@@ -1,0 +1,216 @@
+.section2{
+    
+background-color: #4d4abc; height: 900px; margin-top: 40px;
+position: relative;
+height: 550px;
+
+overflow-x: scroll;
+position: relative;
+
+}
+
+
+
+
+
+.skillsdiv{
+display: flex;
+flex-direction: column; 
+align-items: center;
+color: white; 
+font-size: 4em;
+padding: 20px;
+margin-bottom:  20px;
+
+
+}
+
+.skills{
+    
+margin: 0;
+font-size:xx-large;
+font-family: roboto;
+
+}
+
+.hauptdiv{
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 7px;
+    z-index: 0;
+    object-fit: cover;
+    overflow: auto;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.40);
+    transition: 0.3s;
+    position: relative;
+        
+}
+
+.hauptdiv:hover{
+    transform: scale(1.1);
+
+}
+
+
+.hauptdiv2{
+
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px 300px 300px 300px 300px ;
+    column-gap: 50px;
+margin-left: 50px;    
+    
+
+}
+
+.Davinci{
+width: 200px;
+padding-left: 45px;
+
+}
+
+.textdiv{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 180px;
+    align-items: center;
+    position: relative;
+
+         background-color:#17260c ;
+         border-bottom-left-radius: 7px;
+         border-bottom-right-radius: 7px;
+
+         
+
+}
+
+.textdiv h1{
+    font-family: roboto;
+    margin: 0;
+    color: white;
+    
+}
+
+.textdiv p {
+    font-family: roboto;
+    margin: 0;
+    margin-top: 9px;
+    color: white;
+    padding-left: 13px;
+    
+}
+
+
+    
+    
+
+
+.button{
+    background-color: white;
+    width: 200px;
+    height: 40px;
+    border: none;
+cursor: pointer;
+border-radius: 4px;
+cursor: pointer;
+transition: 0.3s;
+}
+
+.button:hover{
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.765);
+    
+    
+}
+
+.button:active{
+    transform:scale(90%)
+}
+
+
+
+  .fürstärke{
+
+    font-family: roboto;
+    color: #17260c ;
+    font-weight: bold;
+    font-size: 17px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.10);
+  }
+
+  .htmlcss{
+   width: 200px;
+   height: 150px;
+   object-fit: cover;
+   object-position: right;
+   padding-left: 50px;
+  }
+
+  .photoshop{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+   
+   padding-left: 100px;
+   padding-top: 20px;
+    
+  }
+
+  .bilddiv{
+    width: 200px;
+    height: 150px;
+   
+  }
+
+  .sap{
+    width: 200px;
+    height: 150px;
+  }
+
+  .Helium{
+    width: 200px;
+    height: 150px;
+    padding-left: 50px;
+  }
+
+  .ki{
+    width: 100px;
+    border-radius: 50px;
+    margin-left: 102px;
+    margin-top: 23px;
+  }
+
+  .soon{
+    position: absolute;
+    background-color: #FFD700;
+    left: 0;
+    top: 7px;
+    border-top-right-radius: px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.25);
+  }
+
+  .js{
+
+    width: 140px;
+    margin-left: 80px;
+    margin-top: 24px;
+   
+  }
+
+  .react{
+    width: 105px;
+    margin-left: 90px;
+    margin-top: 30px;
+  }
+
+  .divbutton{
+    position: absolute;
+    bottom: 19px;
+  }
+
+  
+
+  
+  
+

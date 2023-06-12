@@ -1,0 +1,59 @@
+.kontakt8{
+
+}
+
+.kontakth1{
+    font-family: roboto;
+    font-size: xx-large;
+    color: #17260c;
+    text-align: center;
+}
+
+.bildtextdiv8{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+   
+
+    
+}
+
+.bild8{
+    width:100%;
+}
+
+.bilddiv8{
+    width: 30px;
+}
+
+.text8{
+    color: #17260c;
+}
+
+
+.link8{
+    text-decoration: none;
+    font-family: roboto;
+    
+}
+
+.hauptdiv8{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+.lnkedinbild{
+    width:30px;
+}
+
+.divicons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 60px;
+}

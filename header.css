@@ -1,0 +1,183 @@
+.body{
+    margin: 0;
+    box-sizing: border-box; 
+    padding-top: 90px;
+    background-color: white;
+    padding-bottom: 40px;
+    
+
+}
+
+.mohanad{
+    color: #3d1673;
+     font-family:
+      roboto; margin:0;
+      cursor: pointer;
+      transition: 0.5s;
+
+
+}
+
+.mohanad:hover{
+
+    color: #8130f2;
+}
+
+.leftsection{
+    display: flex;
+    align-items: center;
+    padding-left: 130px;
+}
+
+
+.headerflex{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    border-bottom-width: 1px ;
+    border-bottom-style: solid;
+    border-bottom-color:#3D1673 ;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.15);
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    background-color: white ;
+    z-index: 1;
+    height: 42px;
+    
+    
+
+}
+
+.leftsection{
+    padding-left: 20px;
+}
+
+.rightsection{
+
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    gap: 30px;
+    padding-right: 20px;
+}
+
+.p, .pzwei, .pdrei, .pvier, .pfünf{
+
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #3D1673;
+    text-decoration:none;
+    transition: 0.5s;
+   
+
+
+}
+
+.p:hover, .pzwei:hover, .pdrei:hover, .pvier:hover, .pfünf:hover{
+    color: #8130f2;
+
+
+    cursor:pointer;
+
+
+}
+
+
+.p:active, .pzwei:active, .pdrei:active, .pvier:active, .pfünf:active{
+
+    color: #112226;
+    text-shadow: 0px 0px 4px white   
+    
+
+}
+
+.p{
+    margin-left: 30px;
+        
+    
+}
+
+
+.hauptgrid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+
+
+.gridtext{
+display: flex;
+flex-direction: column;
+column-gap: 100px;
+margin-left: 20px;
+
+}
+
+
+.mehrerfahren{
+    background-color: #6d0ff2  ; 
+    width: 180px;
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+    font-size: 19px;
+    font-family: Roboto;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    transition: 0.4s;
+    padding: 10px 10px;
+    box-shadow: 0px 0px 8px 2px white
+}
+
+.mehrerfahren:hover{
+    background-color: #3d1673 ;
+    
+}
+
+.mehrerfahren:active{
+   transform: scale(1.1);
+    box-shadow: 0px 0px 5px 2px white;
+
+}
+
+li{
+    margin-bottom: 15px;
+}
+
+p{
+    letter-spacing: 1px;
+}
+
+.timber{
+    width: 300px;
+     height: 300px;
+      object-fit: cover;
+       border-radius: 150px;
+    object-position: top;
+    transition: 0.3s;
+    box-shadow: 0px 0px 2px 1px #D9D2C5 ;
+
+
+    
+}
+
+.timber:hover{
+    box-shadow: 0px 0px 10px 3px #D9D2C5 ;
+}
+
+.firstsection{
+
+    
+}
+
+.slebsthtml{
+    font-family: roboto;
+    color: #3d1673;
+}
+

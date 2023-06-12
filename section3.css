@@ -1,0 +1,118 @@
+.section3{
+
+    background-color: #4d4abc;
+    
+}
+
+.divflex{
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+    column-gap: 20px;
+    overflow: scroll;
+    
+    
+}
+
+.berufserfahrungsdiv{
+    display: flex;
+flex-direction: column; 
+align-items: center;
+color: #17260c; 
+font-size: 4em;
+padding: 20px;
+margin-bottom:  20px;
+    
+}
+
+.berufserfahrung3{
+margin: 0;
+font-size: xx-large;
+color: white;
+font-family: roboto;
+}
+
+.hauptdiv3{
+
+    padding-left: 30px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content:right;
+    gap: 30px;
+    
+   
+  
+
+}
+
+.h3ausbildung{
+    font-family: roboto; color: #112226;
+    
+    font-size:small; 
+    text-align: center;
+   ;
+     font-size: 14px;
+     font-weight: 700;
+     margin: 0;
+     
+
+
+
+}
+
+.h3ausbildung:hover{
+    
+}
+
+
+.datum{
+   height: 150px;
+   width: 150px;
+   border-radius: 75px;
+   background-color: rgb(255, 255, 255);
+   position: relative;
+   margin-left: 70px;
+   transition: 0.7s;
+
+
+}
+
+.datum:hover{
+    transform: scale(1.1);
+}
+
+.aktuell{
+
+    position: absolute;
+    top: 10px;
+    left: 40px;
+}
+
+
+.hauptdivtext3{
+
+    width: 300px;
+    height: 400px;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+    border-radius: 7px;
+    transition: 0.7s;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.25);
+    color: #17260c;
+
+
+
+
+}
+
+li{
+    font-family: roboto;
+    color: #17260c;
+}
+
+.ul3{
+    color: #17260c;
+}
+
+
+

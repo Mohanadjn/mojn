@@ -1,0 +1,31 @@
+.hobyy5{
+   background-color: #4d4abc;
+   padding-bottom: 40px;
+   border-bottom-width: 1px;
+   border-bottom-style: solid;
+   border-bottom-color:black;
+   padding-top: 20px;
+}
+
+.hobby5h1{
+    
+    font-family: roboto;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+   
+
+}
+
+.li5{
+    font-family: roboto;
+    color:white;
+    font-weight: 500;
+  
+}
+
+p{
+    font-family: roboto;
+    color:white;
+    font-weight: 300;
+}
